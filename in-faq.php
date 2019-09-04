@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       IN-FAQ
- * Plugin URI:        https://example.com/plugins/the-basics/
+ * Plugin URI:        https://github.com/ivannikitin-com/in-faq
  * Description:       Раздел FAQ на сайте
  * Version:           1.0.0
  * Requires at least: 5.2
